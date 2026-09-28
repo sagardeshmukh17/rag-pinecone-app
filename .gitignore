@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folder
+venv/
+.venv/
+
+# Streamlit logs
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model files (agar accidentally download ho gaye project folder me)
+*.bin
+*.pt
+*.ckpt
